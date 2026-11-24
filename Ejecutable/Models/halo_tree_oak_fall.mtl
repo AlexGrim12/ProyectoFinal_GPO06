@@ -1,0 +1,15 @@
+newmtl leafsFall
+Ns 60.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.150000 0.150000 0.150000
+illum 2
+map_Kd Textures/halo_leafsFall.png
+
+newmtl woodBirch
+Ns 60.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.150000 0.150000 0.150000
+illum 2
+map_Kd Textures/halo_woodBirch.png

@@ -1,0 +1,103 @@
+newmtl blinn10SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+illum 2
+map_Kd saturnv_blinn10sg.png
+
+newmtl blinn11SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+illum 2
+map_Kd saturnv_blinn11sg.png
+
+newmtl blinn1SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+illum 2
+map_Kd saturnv_blinn1sg.png
+
+newmtl blinn2SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+illum 2
+map_Kd saturnv_blinn2sg.png
+
+newmtl blinn3SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+illum 2
+map_Kd saturnv_blinn3sg.png
+
+newmtl blinn4SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+illum 2
+map_Kd saturnv_blinn4sg.png
+
+newmtl blinn5SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+illum 2
+map_Kd saturnv_blinn5sg.png
+
+newmtl blinn6SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+illum 2
+map_Kd saturnv_blinn6sg.png
+
+newmtl blinn8SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+illum 2
+map_Kd saturnv_blinn8sg.png
+
+newmtl blinn9SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+illum 2
+map_Kd saturnv_blinn9sg.png
+
+newmtl fin_blinn1SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+illum 2
+map_Kd saturnv_fin_blinn1sg.png
+
+newmtl fin_blinn2SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+illum 2
+map_Kd saturnv_fin_blinn2sg.png
+
+newmtl initialShadingGr
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+illum 2
+map_Kd saturnv_initialshadinggr.png

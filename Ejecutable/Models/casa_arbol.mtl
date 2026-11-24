@@ -1,0 +1,87 @@
+newmtl casa_bandera
+Ns 30.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.080000 0.080000 0.080000
+illum 2
+map_Kd Textures/casa_bandera.png
+
+newmtl casa_corteza
+Ns 30.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.080000 0.080000 0.080000
+illum 2
+map_Kd Textures/casa_corteza.png
+
+newmtl casa_hojas
+Ns 30.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.080000 0.080000 0.080000
+illum 2
+map_Kd Textures/casa_hojas.png
+
+newmtl casa_hojas_oscuras
+Ns 30.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.080000 0.080000 0.080000
+illum 2
+map_Kd Textures/casa_hojas_oscuras.png
+
+newmtl casa_marco
+Ns 30.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.080000 0.080000 0.080000
+illum 2
+map_Kd Textures/casa_marco.png
+
+newmtl casa_piedra
+Ns 30.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.080000 0.080000 0.080000
+illum 2
+map_Kd Textures/casa_piedra.png
+
+newmtl casa_puerta
+Ns 30.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.080000 0.080000 0.080000
+illum 2
+map_Kd Textures/casa_puerta.png
+
+newmtl casa_tablones
+Ns 30.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.080000 0.080000 0.080000
+illum 2
+map_Kd Textures/casa_tablones.png
+
+newmtl casa_tablones_oscuros
+Ns 30.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.080000 0.080000 0.080000
+illum 2
+map_Kd Textures/casa_tablones_oscuros.png
+
+newmtl casa_tejas
+Ns 30.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.080000 0.080000 0.080000
+illum 2
+map_Kd Textures/casa_tejas.png
+
+newmtl casa_vidrio
+Ns 30.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.080000 0.080000 0.080000
+illum 2
+map_Kd Textures/casa_vidrio.png

@@ -1,0 +1,15 @@
+# Archivos de compilacion (no se suben)
+Codigo/build/
+*.pdb
+*.ilk
+*.exp
+*.ipdb
+*.iobj
+*.obj.recipe
+.vs/
+*.user
+*.suo
+# Archivos comprimidos (el profesor no los permite)
+*.zip
+*.rar
+*.7z
